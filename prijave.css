@@ -1,0 +1,27 @@
+body{
+		background-color: #DEC9E2;
+		text-align: left;
+		font-family: sans-serif;
+}
+
+h2{
+	text-align: center;
+	color: #4B3F4E;
+	background-color: #D881EE;
+}
+
+.pasus{
+	color: #4B3F4E;
+	font-family: monospace;
+	text-shadow: 3px 3px 4px #613B6B, -3px -3px 4px #584A5C;
+}
+
+h4{
+	background-color: #D881EE;
+	text-align: left;
+	color: #4B3F4E;
+}
+
+.slike{
+	text-align: center;
+}

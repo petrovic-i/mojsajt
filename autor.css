@@ -1,0 +1,35 @@
+body{
+	background-color: #F89ED8;
+	text-align: left;
+	font-family: ariel;
+}
+
+h1{
+	color: #584551;
+	font-size: 30px;
+	text-align: center;
+	text-shadow: 0px 0px 5px #E0299C, 4px 0px 8px #EF66BC, -4px 0px 8px #EF7EC5;
+	background-color: #CEACC2;
+}
+
+.uvod{
+	color: #584551;
+	font-size: 15px;
+	box-sizing: border-box;
+	width: 30%;
+	padding: 1em;
+	border: 2px #584551 solid;
+}
+
+p{
+	font-size: 17px;
+	color: #584551;
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	color: #584551;
+	text-shadow: 0px 0px 5px #E0299C, 4px 0px 8px #EF66BC, -4px 0px 8px #EF7EC5;
+	background-color: #CEACC2;
+}
